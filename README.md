@@ -14,10 +14,10 @@ Step 1. Organize the existing Usagi's call meaning table
 
 Step 2. 
 Corresponding to C language (configuration reasons)
-1. Ura can represent true
+1. URA can represent true
 (because it means affirmation, usually true or 1)
-2. Ha can be represented as if (because it means doubt)
-3. Purururururu represents return (because it is usually the last step of each function. I believe that when writing a program, you should be very excited after writing the last return and can compile and see the program run)
+2. HA can be represented as if (because it means doubt)
+3. PURURURURURU represents return (because it is usually the last step of each function. I believe that when writing a program, you should be very excited after writing the last return and can compile and see the program run)
 4. The Yaha combination includes the following (originally to express various emotions, corresponding to the code I think it is a few of the most commonly used symbols XD)\
 YAHA_ { \
 YA_HA } \
